@@ -2,7 +2,6 @@
 - 👀 I’m interested in **Game Development** and **Medical Analysis Advancement**
 - 🌱 I’m currently learning C in #42Amman part of #42Schools
 - 📫 How to reach me ... TBD(coming Soon....)
-- 😄 Pronouns: N/A
 - ⚡ Fun fact: I can sleep for 17 hours and still be tired, also, Mitochondria is the powerhouse of the cell!
 
 <!---
